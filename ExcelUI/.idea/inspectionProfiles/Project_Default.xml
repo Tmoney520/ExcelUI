@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="UI_yaml_auto.test_Case.test_login_buy.Keys" />
+          <option value="CMVIP06_PYTEST.class03.p05_testcae_step.case01.test_allure_step.login" />
+          <option value="page.cartLogin_page.allPages" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
